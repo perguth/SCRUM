@@ -4,7 +4,7 @@ Die SCRUM-Methodologie ist vor allem im Bereich der Softwareenwicklung populär 
 
 Der typische SCRUM-Ablauf sieht wie folgt aus:
 
-![Der SCRUM Prozess veranschaulicht.](SCRUM/illustration.svg)
+![Der SCRUM Prozess veranschaulicht.](https://raw.githubusercontent.com/pguth/SCRUM/master/illustration.png)
 
 <sup>Drawing(Quelle: Wikipedia, https://de.wikipedia.org/wiki/Datei:Scrum_process-de.svg)</sup>
 
