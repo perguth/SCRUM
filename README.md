@@ -5,9 +5,7 @@ Die SCRUM-Methodologie ist vor allem im Bereich der Softwareenwicklung populär 
 Der typische SCRUM-Ablauf sieht wie folgt aus:
 
 ![Der SCRUM Prozess veranschaulicht.](https://raw.githubusercontent.com/pguth/SCRUM/master/illustration.png)
-
-<sup>Drawing(Quelle: Wikipedia, https://de.wikipedia.org/wiki/Datei:Scrum_process-de.svg)</sup>
-
+<sup>(Quelle: Wikipedia, https://de.wikipedia.org/wiki/Datei:Scrum_process-de.svg)</sup>
 
 1. **Was?** Der Investor/Visionär, Product-Owner genannt, formuliert initial seine Produktvorstellungen.
 2. **Was? Wie viel? Wann?** Im Austausch mit dem Entwicklerteam werden diese Vorstellungen in überschaubare Teile, Product-Backlog-Items, zergliedert. Gemeinsam, aber unter Führung des Product-Owners, werden die wichtigsten und innerhalb des folgenden Entwicklungsabschnitts abarbeitbaren Product-Backlog-Items ausgewählt.
